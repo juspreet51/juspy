@@ -76,7 +76,7 @@ jpplot.confusion_matrix(cf_matrix)
 ```
 <br>
 <img 
-src="https://raw.githubusercontent.com/juspreet51/juspreet51_pkg/main/src/juspreet51/media/plot_cfm_output.PNG" 
+src="https://raw.githubusercontent.com/juspreet51/juspy/main/src/juspy/media/plot_cfm_output.PNG" 
 style="width:45%;  display: block; margin-left: auto;  margin-right: auto;">
 </li>
 <br><br>
@@ -90,7 +90,7 @@ jpplot.piechart(df_name["column_name"])
 ```
 <br>
 <img 
-src="https://raw.githubusercontent.com/juspreet51/juspreet51_pkg/main/src/juspreet51/media/draw_piechart.PNG" 
+src="https://raw.githubusercontent.com/juspreet51/juspy/main/src/juspy/media/plot_piechart_output.PNG" 
 style="width:35%;  display: block; margin-left: auto;  margin-right: auto;">
 </li>
 
