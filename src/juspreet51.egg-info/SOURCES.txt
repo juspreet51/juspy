@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/juspreet51.egg-info/PKG-INFO
+src/juspreet51.egg-info/SOURCES.txt
+src/juspreet51.egg-info/dependency_links.txt
+src/juspreet51.egg-info/top_level.txt
+src/juspy/__init__.py
+src/juspy/example.py
