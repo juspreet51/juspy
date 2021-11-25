@@ -25,13 +25,12 @@ conda install -c conda-forge jupyterlab
 ```
 
 - and then
-    - ```python
-pip install juspy
-```
 
     - ```python
-jupyterlab
-```
+    pip install juspy
+    jupyterlab
+    ```
+<br>
 
 * Incase if you're having any trouble regarding installation or dependencies, kindly make sure you're using updated versions
 
@@ -40,11 +39,11 @@ conda update conda
 conda update pip
 conda update python
 ```
-And now try the above steps again
-___
-
-# Demo Notebooks:
 <br>
+And now try the above steps again
+
+___
+# Demo Notebooks:
 <ol>
 <li>
         
@@ -62,7 +61,7 @@ print(greet.namastey())
 <br><br>
 <li>
     
- jpplot.[confusion_matrix()](https://github.com/juspreet51/juspreet51_pkg/tree/main/src/juspreet51/demo_nbs/plot_confusion_matrix.ipynb)
+ jpplot.[confusion_matrix()](https://github.com/juspreet51/juspy/blob/main/src/juspy/demo_nbs/01_confusion_matrix.ipynb)
 ```python
 import numpy as np
 import seaborn as sns
@@ -83,7 +82,7 @@ style="width:45%;  display: block; margin-left: auto;  margin-right: auto;">
 <br><br>
 <li> 
 
-jpplot.[piechart()](https://github.com/juspreet51/juspreet51_pkg/tree/main/src/juspreet51/demo_nbs/draw_piechart.ipynb)
+jpplot.[piechart()](https://github.com/juspreet51/juspy/blob/main/src/juspy/demo_nbs/02_piechart.ipynb)
 
 ```python
 from juspy import plot as jpplot
