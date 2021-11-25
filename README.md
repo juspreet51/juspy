@@ -116,7 +116,7 @@ style="width:25%;  display: block; margin-left: auto;  margin-right: auto;">
 
 <li> 
 
-from juspy.linear_models import [LinearRegression](#)
+from juspy.linear_models import [LinearRegression](https://github.com/juspreet51/juspy/blob/main/src/juspy/demo_nbs/03_lin_reg.ipynb)
 <br>
 ```python
 from juspy.linear_models import LinearRegression as lin_reg
