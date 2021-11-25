@@ -6,7 +6,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=%40Juspreet51&style=social&url=https%3A%2F%2Fwww.twitter.com%2Fjuspreet51)
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/BMSMBmuweD)
 
-<img src="">
+<img src="https://raw.githubusercontent.com/juspreet51/juspy/main/src/juspy/media/logos/trans_bg_notext.png">
 
 
 juspy is a library for making EDA and Modelling in Python quick and convinient. It's built on top of:
