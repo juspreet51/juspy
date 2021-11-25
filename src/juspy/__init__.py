@@ -2,4 +2,4 @@ from .plot import *
 from .greet import *
 
 # Define the seaborn version
-__version__ = "0.0.1b7"
+__version__ = "0.0.1b8"
