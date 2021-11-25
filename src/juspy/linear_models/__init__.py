@@ -1,2 +1,1 @@
-def fit():
-    print("Fit Methhod Called")
+from .LinearRegression import *

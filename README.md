@@ -55,9 +55,22 @@ print(juspy.__version__)
 from juspy import greet
 print(greet.namastey())
 ```
+<br>
+    
+Or, try greeting 
+```python
+print(greet.hello())
+print(greet.ni_hao())
+print(greet.hola())
+print(greet.bonjour())
+print(greet.schatz())
+print(greet.ahlan())
+print(greet.privet())
+```
     
 </li>
 <br><br>
+    If they're producing some output, we're good to go
 <li>
     
  jpplot.[confusion_matrix()](https://github.com/juspreet51/juspy/blob/main/src/juspy/demo_nbs/01_confusion_matrix.ipynb)
