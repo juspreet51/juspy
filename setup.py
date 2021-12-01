@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="juspy",
-    version="0.0.2b14",
+    version="0.0.2b15",
     author="Jaspreet Singh",
     author_email="contact@juspreet51.in",
     description="An EDA and modellling assist library",
