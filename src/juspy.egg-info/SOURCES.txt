@@ -11,4 +11,5 @@ src/juspy.egg-info/dependency_links.txt
 src/juspy.egg-info/requires.txt
 src/juspy.egg-info/top_level.txt
 src/juspy/linear_models/LinearRegression.py
+src/juspy/linear_models/LogisticRegression.py
 src/juspy/linear_models/__init__.py
