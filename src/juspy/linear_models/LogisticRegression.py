@@ -32,3 +32,4 @@ class LogisticRegression:
         z = dot(X, self.weights)
         # Returning binary result
         return [1 if i > 0.5 else 0 for i in self.sigmoid(z)]
+
